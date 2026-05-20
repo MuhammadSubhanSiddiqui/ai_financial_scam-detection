@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.*
+venv/
+.vscode/
+.DS_Store
+best_distilbert_model/
+*.pt
+*.pth
+secrets.json

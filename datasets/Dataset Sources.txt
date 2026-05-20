@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/amananandrai/clickbait-dataset
+
+https://github.com/kaidmml/fakenewsnet
+
+https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10
+
+https://fever.ai/dataset/fever.html
+Training Dataset and Shared Task Development Dataset(Labelled)

@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+safetensors
+spacy
+google-generativeai
+numpy
+pandas
+sentencepiece
+huggingface-hub
