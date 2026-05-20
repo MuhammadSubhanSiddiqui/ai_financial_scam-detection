@@ -379,5 +379,3 @@ if analyze_clicked:
             st.warning(f"Medium risk: {final_score:.1f}/100")
         else:
             st.error(f"High risk: {final_score:.1f}/100")
-
-st.caption("Tip: set GEMINI_API_KEY as an environment variable or paste it in the sidebar.")
